@@ -1,14 +1,15 @@
-#INFO 247 HW: Highcharts
+# INFO 247 HW: Highcharts
 
-##Instructions
+## Instructions
 
-###Setup
+### Setup
+
 1. Open "index.html" and "_data/data.csv" in your text editor.
 
-###Goals
+### Goals
 Build a horizontal stacked bar chart using the data provided (US 2012 Olympics Medal Count). Take a look at result-01.png & result-02.png to see what the final result should look like (they're the same chart, but the second screenshot shows a tooltip).
 
-###Practice with Highcharts
+### Practice with Highcharts
 1. Create a horizontal stacked bar chart by completing the given code. Take a look at http://www.highcharts.com/demo/bar-stacked.
 2. You only need to edit the script.js file --no need to edit the HTML or CSS files.
 3. You need to read the data from a csv file. Set up a local server to read the data successfully via ajax.
