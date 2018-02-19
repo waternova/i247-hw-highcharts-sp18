@@ -46,7 +46,7 @@ var options = {
       fontWeight: "bold"
     }
   },
-  // tooltip: {
+  // tooltip: { // note for next years GSI: these hints are not helpful. Either make them help, or update the image to make it use a more default tooltip
   //   // hints: borderRadius, borderWidth, shadow
   //   style: {
   //     // hints: color, fontFamily, fontSize, padding
